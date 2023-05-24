@@ -1,0 +1,11 @@
+{
+    "name":"IPL chrome extenstion",
+    "version":"1.0.0",
+    "description":"Best extension for ipl score",
+    "manifest_version": 3,
+    "author": "Tassawar Hasib",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Match Score"
+    }
+}
