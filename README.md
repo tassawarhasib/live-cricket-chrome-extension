@@ -31,4 +31,4 @@ This Chrome extension provides live updates on current IPL matches. Stay up-to-d
 
 **Note:**
 - Ensure you have an active internet connection for the extension to fetch live match data.
-- For any issues or feedback, please contact the developer.
+- For any issues or feedback, please contact.
